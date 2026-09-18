@@ -15,9 +15,20 @@ Paste your ASIN and up to 10 competitors. ReviewIQ collects every review, image 
 ![License](https://img.shields.io/badge/license-MIT-0F172A)
 [![Built by Pro Marketer](https://img.shields.io/badge/built%20by-Pro%20Marketer-F97316)](https://promarketer.ca)
 
-<img src="docs/screenshots/overview.png" alt="ReviewIQ overview dashboard" width="100%">
+<img src="docs/screenshots/overview.png" alt="ReviewIQ Amazon review analysis dashboard" width="100%">
 
 </div>
+
+<p align="center">
+  <a href="#why-reviewiq">Why</a> ·
+  <a href="#what-you-get">Features</a> ·
+  <a href="#how-it-works">How it works</a> ·
+  <a href="#quick-start">Quick start</a> ·
+  <a href="#costs-pay-as-you-go-usd">Costs</a> ·
+  <a href="docs/sample-report.md">Sample report</a> ·
+  <a href="#about-pro-marketer">About</a>
+</p>
+
 
 ---
 
@@ -35,6 +46,18 @@ ReviewIQ puts both together:
 | Generic listing advice | A rewritten title & bullets, a PPC plan, and a 30/60/90-day plan built from real evidence |
 
 **Built for** Amazon brand owners, agencies and product teams who make listing, PPC and product decisions with real money.
+
+---
+
+## Use cases
+
+- **Amazon competitor analysis** - see exactly why shoppers pick a competitor over you, aspect by aspect.
+- **Amazon review scraper + sentiment analysis** - every 5★ to 1★ review with emotion, pain points and praise tagged by AI.
+- **Listing optimization** - rewrite your title, bullets, images and A+ content around real customer language and objections.
+- **Amazon keyword research & SEO** - find striking-distance keywords, competitor keyword gaps and open white space.
+- **Amazon PPC strategy** - defend, attack and conquest campaigns with suggested bids.
+- **Product development** - turn recurring 1★–3★ complaints into your next product improvement.
+- **Agency client audits** - produce a full review-intelligence report for a brand in under an hour.
 
 ---
 
