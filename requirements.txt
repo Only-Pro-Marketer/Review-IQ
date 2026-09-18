@@ -1,0 +1,9 @@
+streamlit>=1.40
+anthropic>=1.6
+pandas>=2.2
+plotly>=5.20
+openpyxl>=3.1
+requests>=2.31
+python-dotenv>=1.0
+pytest>=8
+playwright>=1.45  # optional: UI screenshots

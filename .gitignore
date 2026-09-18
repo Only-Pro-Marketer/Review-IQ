@@ -1,0 +1,18 @@
+# secrets
+.env
+.env.*
+!.env.example
+
+# local data: database, downloaded images, reports
+data/
+
+# environments & caches
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.DS_Store
+
+# local agent tooling (environment-specific symlinks)
+.agents/
+.claude/

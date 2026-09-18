@@ -1,0 +1,94 @@
+{
+ "data": {
+  "marketplace": "com",
+  "statistics": {
+   "numKeywords": 500,
+   "numVisibleKeywords": 179,
+   "totalSvOfVisibleKeywords": 152478
+  },
+  "latestResearchDate": "2026-01-01T00:00:00.000Z",
+  "competitors": [
+   {
+    "imageUrl": "https://example.com/demo.jpg",
+    "brand": "Brand A",
+    "asin": "B0DEMO0002",
+    "bsr": 34,
+    "title": "Brand A Demo Spray",
+    "rating": 4.6,
+    "reviewCount": 2267,
+    "price": 18.95,
+    "sales": 4205,
+    "revenue": 79681,
+    "outlierKws": 19,
+    "outlierSV": 78236,
+    "kwRankedOnP1": 176,
+    "kwRankedOnP1Percent": 0.9832402234636871,
+    "svRankedOnP1": 151985,
+    "svRankedOnP1Percent": 0.9964105901946896,
+    "advertisedKws": 0,
+    "advertisedKwsPercent": 0,
+    "tosSvAdsPercent": 0,
+    "fulfillment": "FBA",
+    "listingRankingJuice": {
+     "value": 282095
+    },
+    "numberOfVariations": 1,
+    "category": "Demo Category"
+   },
+   {
+    "imageUrl": "https://example.com/demo.jpg",
+    "brand": "Brand A",
+    "asin": "B0DEMO0003",
+    "bsr": 81,
+    "title": "Brand A Demo Spray",
+    "rating": 4.8,
+    "reviewCount": 793,
+    "price": 27.97,
+    "sales": 3256,
+    "revenue": 91065,
+    "outlierKws": 2,
+    "outlierSV": 4805,
+    "kwRankedOnP1": 156,
+    "kwRankedOnP1Percent": 0.8715083798882681,
+    "svRankedOnP1": 137731,
+    "svRankedOnP1Percent": 0.9029615023833681,
+    "advertisedKws": 45,
+    "advertisedKwsPercent": 0.25139664804469275,
+    "tosSvAdsPercent": 0.48513027164653405,
+    "fulfillment": "FBA",
+    "listingRankingJuice": {
+     "value": 282545
+    },
+    "numberOfVariations": 2,
+    "category": "Demo Category"
+   },
+   {
+    "imageUrl": "https://example.com/demo.jpg",
+    "brand": "Brand B",
+    "asin": "B0DEMO0008",
+    "bsr": 4641,
+    "title": "Brand B Demo Spray",
+    "rating": 4.6,
+    "reviewCount": 24,
+    "price": 13.99,
+    "sales": 193,
+    "revenue": 2696,
+    "outlierKws": 0,
+    "outlierSV": 0,
+    "kwRankedOnP1": 86,
+    "kwRankedOnP1Percent": 0.48044692737430167,
+    "svRankedOnP1": 97860,
+    "svRankedOnP1Percent": 0.641571108601183,
+    "advertisedKws": 0,
+    "advertisedKwsPercent": 0,
+    "tosSvAdsPercent": 0,
+    "fulfillment": "FBA",
+    "listingRankingJuice": {
+     "value": 292244
+    },
+    "numberOfVariations": 1,
+    "category": "Demo Category"
+   }
+  ]
+ }
+}

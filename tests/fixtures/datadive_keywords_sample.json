@@ -1,0 +1,3527 @@
+{
+ "data": {
+  "keywords": [
+   {
+    "keyword": "demo spray",
+    "searchVolume": 52162,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 4,
+     "B0DEMO0002": 1,
+     "B0DEMO0003": 2,
+     "B0DEMO0004": 5,
+     "B0DEMO0005": 24,
+     "B0DEMO0006": 8,
+     "B0DEMO0007": 14,
+     "B0DEMO0008": 13
+    },
+    "suggestedBid": {
+     "max": 79,
+     "min": 42,
+     "median": 63
+    }
+   },
+   {
+    "keyword": "demo keyword 001",
+    "searchVolume": 10383,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 6,
+     "B0DEMO0002": 4,
+     "B0DEMO0003": 2,
+     "B0DEMO0004": 11,
+     "B0DEMO0005": 22,
+     "B0DEMO0006": 7,
+     "B0DEMO0007": 18,
+     "B0DEMO0008": 25
+    },
+    "suggestedBid": {
+     "max": 51,
+     "min": 31,
+     "median": 41
+    }
+   },
+   {
+    "keyword": "demo keyword 002",
+    "searchVolume": 2984,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 15,
+     "B0DEMO0002": 8,
+     "B0DEMO0003": 13,
+     "B0DEMO0004": 21,
+     "B0DEMO0005": 38,
+     "B0DEMO0006": 20,
+     "B0DEMO0007": 26,
+     "B0DEMO0008": 43
+    },
+    "suggestedBid": {
+     "max": 45,
+     "min": 27,
+     "median": 36
+    }
+   },
+   {
+    "keyword": "demo keyword 003",
+    "searchVolume": 2294,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 4,
+     "B0DEMO0002": 1,
+     "B0DEMO0003": 2,
+     "B0DEMO0004": 5,
+     "B0DEMO0005": 18,
+     "B0DEMO0006": 12,
+     "B0DEMO0007": 9,
+     "B0DEMO0008": 21
+    },
+    "suggestedBid": {
+     "max": 183,
+     "min": 110,
+     "median": 146
+    }
+   },
+   {
+    "keyword": "demo keyword 004",
+    "searchVolume": 1884,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 4,
+     "B0DEMO0002": 1,
+     "B0DEMO0003": 2,
+     "B0DEMO0004": 3,
+     "B0DEMO0005": 18,
+     "B0DEMO0006": 9,
+     "B0DEMO0007": 8,
+     "B0DEMO0008": 20
+    },
+    "suggestedBid": {
+     "max": 89,
+     "min": 42,
+     "median": 71
+    }
+   },
+   {
+    "keyword": "demo keyword 005",
+    "searchVolume": 1663,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 3,
+     "B0DEMO0002": 2,
+     "B0DEMO0003": 1,
+     "B0DEMO0004": 10,
+     "B0DEMO0005": 19,
+     "B0DEMO0006": 13,
+     "B0DEMO0007": 11,
+     "B0DEMO0008": 16
+    },
+    "suggestedBid": {
+     "max": 249,
+     "min": 149,
+     "median": 199
+    }
+   },
+   {
+    "keyword": "demo keyword 006",
+    "searchVolume": 1033,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 4,
+     "B0DEMO0002": 2,
+     "B0DEMO0003": 1,
+     "B0DEMO0004": 7,
+     "B0DEMO0005": 24,
+     "B0DEMO0006": 10,
+     "B0DEMO0007": 15,
+     "B0DEMO0008": 16
+    },
+    "suggestedBid": {
+     "max": 111,
+     "min": 67,
+     "median": 89
+    }
+   },
+   {
+    "keyword": "demo keyword 007",
+    "searchVolume": 843,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 3,
+     "B0DEMO0002": 2,
+     "B0DEMO0003": 1,
+     "B0DEMO0004": 11,
+     "B0DEMO0005": 33,
+     "B0DEMO0006": 12,
+     "B0DEMO0007": 15,
+     "B0DEMO0008": 16
+    },
+    "suggestedBid": {
+     "max": 303,
+     "min": 141,
+     "median": 242
+    }
+   },
+   {
+    "keyword": "demo keyword 008",
+    "searchVolume": 830,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 22,
+     "B0DEMO0002": 7,
+     "B0DEMO0003": 11,
+     "B0DEMO0004": 24,
+     "B0DEMO0005": 43,
+     "B0DEMO0006": 23,
+     "B0DEMO0007": 33,
+     "B0DEMO0008": 32
+    },
+    "suggestedBid": {
+     "max": 60,
+     "min": 40,
+     "median": 48
+    }
+   },
+   {
+    "keyword": "demo keyword 009",
+    "searchVolume": 773,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 6,
+     "B0DEMO0002": 2,
+     "B0DEMO0003": 1,
+     "B0DEMO0004": 5,
+     "B0DEMO0005": 21,
+     "B0DEMO0006": 10,
+     "B0DEMO0007": 11,
+     "B0DEMO0008": 36
+    },
+    "suggestedBid": {
+     "max": 48,
+     "min": 29,
+     "median": 38
+    }
+   },
+   {
+    "keyword": "demo keyword 010",
+    "searchVolume": 616,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 3,
+     "B0DEMO0002": 1,
+     "B0DEMO0003": 2,
+     "B0DEMO0004": 5,
+     "B0DEMO0005": 20,
+     "B0DEMO0006": 21,
+     "B0DEMO0007": 6,
+     "B0DEMO0008": 32
+    },
+    "suggestedBid": {
+     "max": 65,
+     "min": 39,
+     "median": 52
+    }
+   },
+   {
+    "keyword": "demo keyword 011",
+    "searchVolume": 606,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 22,
+     "B0DEMO0002": 8,
+     "B0DEMO0003": 12,
+     "B0DEMO0004": 18,
+     "B0DEMO0005": 38,
+     "B0DEMO0006": 33,
+     "B0DEMO0007": 31,
+     "B0DEMO0008": 23
+    },
+    "suggestedBid": {
+     "max": 54,
+     "min": 32,
+     "median": 43
+    }
+   },
+   {
+    "keyword": "demo keyword 012",
+    "searchVolume": 539,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 3,
+     "B0DEMO0002": 2,
+     "B0DEMO0003": 4,
+     "B0DEMO0004": 5,
+     "B0DEMO0005": 10,
+     "B0DEMO0006": 27,
+     "B0DEMO0007": 15,
+     "B0DEMO0008": 13
+    },
+    "suggestedBid": {
+     "max": 49,
+     "min": 33,
+     "median": 39
+    }
+   },
+   {
+    "keyword": "demo keyword 013",
+    "searchVolume": 536,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 5,
+     "B0DEMO0002": 2,
+     "B0DEMO0003": 4,
+     "B0DEMO0004": 10,
+     "B0DEMO0005": 8,
+     "B0DEMO0006": 16,
+     "B0DEMO0007": 9,
+     "B0DEMO0008": 7
+    },
+    "suggestedBid": {
+     "max": 96,
+     "min": 59,
+     "median": 78
+    }
+   },
+   {
+    "keyword": "demo keyword 014",
+    "searchVolume": 483,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 3,
+     "B0DEMO0002": 1,
+     "B0DEMO0003": 2,
+     "B0DEMO0004": 5,
+     "B0DEMO0005": 10,
+     "B0DEMO0006": 13,
+     "B0DEMO0007": 9,
+     "B0DEMO0008": 18
+    },
+    "suggestedBid": {
+     "max": 189,
+     "min": 113,
+     "median": 151
+    }
+   },
+   {
+    "keyword": "demo keyword 015",
+    "searchVolume": 415,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 3,
+     "B0DEMO0002": 2,
+     "B0DEMO0003": 4,
+     "B0DEMO0004": 6,
+     "B0DEMO0005": 18,
+     "B0DEMO0006": 12,
+     "B0DEMO0007": 5,
+     "B0DEMO0008": 11
+    },
+    "suggestedBid": {
+     "max": 123,
+     "min": 74,
+     "median": 98
+    }
+   },
+   {
+    "keyword": "demo keyword 016",
+    "searchVolume": 393,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 19,
+     "B0DEMO0002": 14,
+     "B0DEMO0003": 22,
+     "B0DEMO0004": 27,
+     "B0DEMO0005": 18,
+     "B0DEMO0006": 21,
+     "B0DEMO0007": 33,
+     "B0DEMO0008": 16
+    },
+    "suggestedBid": {
+     "max": 562,
+     "min": 324,
+     "median": 432
+    }
+   },
+   {
+    "keyword": "demo keyword 017",
+    "searchVolume": 368,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 5,
+     "B0DEMO0002": 1,
+     "B0DEMO0003": 2,
+     "B0DEMO0004": 4,
+     "B0DEMO0005": 23,
+     "B0DEMO0006": 7,
+     "B0DEMO0007": 16,
+     "B0DEMO0008": 12
+    },
+    "suggestedBid": {
+     "max": 79,
+     "min": 42,
+     "median": 63
+    }
+   },
+   {
+    "keyword": "demo keyword 018",
+    "searchVolume": 364,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 5,
+     "B0DEMO0002": 1,
+     "B0DEMO0003": 7,
+     "B0DEMO0004": 11,
+     "B0DEMO0005": 27,
+     "B0DEMO0006": 22,
+     "B0DEMO0007": 6,
+     "B0DEMO0008": 23
+    },
+    "suggestedBid": {
+     "max": 56,
+     "min": 34,
+     "median": 45
+    }
+   },
+   {
+    "keyword": "demo keyword 019",
+    "searchVolume": 340,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 8,
+     "B0DEMO0002": 1,
+     "B0DEMO0003": 3,
+     "B0DEMO0004": 5,
+     "B0DEMO0005": 25,
+     "B0DEMO0006": 7,
+     "B0DEMO0007": 19,
+     "B0DEMO0008": 17
+    },
+    "suggestedBid": {
+     "max": 51,
+     "min": 31,
+     "median": 41
+    }
+   },
+   {
+    "keyword": "demo keyword 020",
+    "searchVolume": 182,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 7,
+     "B0DEMO0002": 3,
+     "B0DEMO0003": 2,
+     "B0DEMO0004": 5,
+     "B0DEMO0005": 22,
+     "B0DEMO0006": 8,
+     "B0DEMO0007": 20,
+     "B0DEMO0008": 26
+    },
+    "suggestedBid": {
+     "max": 59,
+     "min": 35,
+     "median": 47
+    }
+   },
+   {
+    "keyword": "demo keyword 021",
+    "searchVolume": 182,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 4,
+     "B0DEMO0002": 1,
+     "B0DEMO0003": 2,
+     "B0DEMO0004": 6,
+     "B0DEMO0005": 11,
+     "B0DEMO0006": 7,
+     "B0DEMO0007": 8,
+     "B0DEMO0008": 16
+    },
+    "suggestedBid": null
+   },
+   {
+    "keyword": "demo keyword 022",
+    "searchVolume": 182,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 14,
+     "B0DEMO0002": 1,
+     "B0DEMO0003": 2,
+     "B0DEMO0004": 6,
+     "B0DEMO0005": 5,
+     "B0DEMO0006": 9,
+     "B0DEMO0007": 10,
+     "B0DEMO0008": 17
+    },
+    "suggestedBid": {
+     "max": 36,
+     "min": 22,
+     "median": 29
+    }
+   },
+   {
+    "keyword": "demo keyword 023",
+    "searchVolume": 182,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 3,
+     "B0DEMO0002": 1,
+     "B0DEMO0003": 2,
+     "B0DEMO0004": 4,
+     "B0DEMO0005": 8,
+     "B0DEMO0006": 13,
+     "B0DEMO0007": 5,
+     "B0DEMO0008": 12
+    },
+    "suggestedBid": {
+     "max": 53,
+     "min": 32,
+     "median": 42
+    }
+   },
+   {
+    "keyword": "demo keyword 024",
+    "searchVolume": 182,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 3,
+     "B0DEMO0002": 1,
+     "B0DEMO0003": 7,
+     "B0DEMO0004": 5,
+     "B0DEMO0005": 6,
+     "B0DEMO0006": 16,
+     "B0DEMO0007": 4,
+     "B0DEMO0008": 23
+    },
+    "suggestedBid": {
+     "max": 80,
+     "min": 52,
+     "median": 64
+    }
+   },
+   {
+    "keyword": "demo keyword 025",
+    "searchVolume": 182,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 7,
+     "B0DEMO0002": 2,
+     "B0DEMO0003": 9,
+     "B0DEMO0004": 6,
+     "B0DEMO0005": 8,
+     "B0DEMO0006": 21,
+     "B0DEMO0007": 15,
+     "B0DEMO0008": 22
+    },
+    "suggestedBid": {
+     "max": 96,
+     "min": 46,
+     "median": 67
+    }
+   },
+   {
+    "keyword": "demo keyword 026",
+    "searchVolume": 182,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 6,
+     "B0DEMO0002": 4,
+     "B0DEMO0003": 5,
+     "B0DEMO0004": 3,
+     "B0DEMO0005": 20,
+     "B0DEMO0006": 13,
+     "B0DEMO0007": 12,
+     "B0DEMO0008": 24
+    },
+    "suggestedBid": {
+     "max": 278,
+     "min": 167,
+     "median": 222
+    }
+   },
+   {
+    "keyword": "demo keyword 027",
+    "searchVolume": 182,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 14,
+     "B0DEMO0002": 2,
+     "B0DEMO0003": 11,
+     "B0DEMO0004": 21,
+     "B0DEMO0005": 7,
+     "B0DEMO0006": 19,
+     "B0DEMO0007": 36,
+     "B0DEMO0008": 22
+    },
+    "suggestedBid": {
+     "max": 68,
+     "min": 42,
+     "median": 54
+    }
+   },
+   {
+    "keyword": "demo keyword 028",
+    "searchVolume": 182,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 15,
+     "B0DEMO0002": 5,
+     "B0DEMO0003": 10,
+     "B0DEMO0004": 8,
+     "B0DEMO0005": 26,
+     "B0DEMO0006": 17,
+     "B0DEMO0007": 21,
+     "B0DEMO0008": 31
+    },
+    "suggestedBid": {
+     "max": 172,
+     "min": 102,
+     "median": 136
+    }
+   },
+   {
+    "keyword": "demo keyword 029",
+    "searchVolume": 182,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 9,
+     "B0DEMO0002": 3,
+     "B0DEMO0003": 8,
+     "B0DEMO0004": 10,
+     "B0DEMO0005": 22,
+     "B0DEMO0006": 19,
+     "B0DEMO0007": 20,
+     "B0DEMO0008": 30
+    },
+    "suggestedBid": {
+     "max": 61,
+     "min": 36,
+     "median": 49
+    }
+   },
+   {
+    "keyword": "demo keyword 030",
+    "searchVolume": 182,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 4,
+     "B0DEMO0002": 2,
+     "B0DEMO0003": 3,
+     "B0DEMO0004": 6,
+     "B0DEMO0005": 23,
+     "B0DEMO0006": 14,
+     "B0DEMO0007": 5,
+     "B0DEMO0008": 20
+    },
+    "suggestedBid": {
+     "max": 56,
+     "min": 34,
+     "median": 45
+    }
+   },
+   {
+    "keyword": "demo keyword 031",
+    "searchVolume": 182,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 6,
+     "B0DEMO0002": 1,
+     "B0DEMO0003": 2,
+     "B0DEMO0004": 3,
+     "B0DEMO0005": 11,
+     "B0DEMO0006": 9,
+     "B0DEMO0007": 26,
+     "B0DEMO0008": 8
+    },
+    "suggestedBid": {
+     "max": 320,
+     "min": 192,
+     "median": 256
+    }
+   },
+   {
+    "keyword": "demo keyword 032",
+    "searchVolume": 182,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 23,
+     "B0DEMO0002": 9,
+     "B0DEMO0003": 14,
+     "B0DEMO0004": 29,
+     "B0DEMO0005": 15,
+     "B0DEMO0006": 12,
+     "B0DEMO0007": 28,
+     "B0DEMO0008": 25
+    },
+    "suggestedBid": {
+     "max": 31,
+     "min": 19,
+     "median": 25
+    }
+   },
+   {
+    "keyword": "demo keyword 033",
+    "searchVolume": 182,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 12,
+     "B0DEMO0002": 6,
+     "B0DEMO0003": 19,
+     "B0DEMO0004": 11,
+     "B0DEMO0005": 24,
+     "B0DEMO0006": 28,
+     "B0DEMO0007": 18,
+     "B0DEMO0008": 39
+    },
+    "suggestedBid": {
+     "max": 20,
+     "min": 17,
+     "median": 19
+    }
+   },
+   {
+    "keyword": "demo keyword 034",
+    "searchVolume": 182,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 4,
+     "B0DEMO0002": 1,
+     "B0DEMO0003": 2,
+     "B0DEMO0004": 3,
+     "B0DEMO0005": 17,
+     "B0DEMO0006": 10,
+     "B0DEMO0007": 6,
+     "B0DEMO0008": 13
+    },
+    "suggestedBid": {
+     "max": 54,
+     "min": 32,
+     "median": 43
+    }
+   },
+   {
+    "keyword": "demo keyword 035",
+    "searchVolume": 182,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 7,
+     "B0DEMO0002": 2,
+     "B0DEMO0003": 3,
+     "B0DEMO0004": 4,
+     "B0DEMO0005": 34,
+     "B0DEMO0006": 12,
+     "B0DEMO0007": 44,
+     "B0DEMO0008": 13
+    },
+    "suggestedBid": {
+     "max": 55,
+     "min": 33,
+     "median": 44
+    }
+   },
+   {
+    "keyword": "demo keyword 036",
+    "searchVolume": 182,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 7,
+     "B0DEMO0002": 4,
+     "B0DEMO0003": 5,
+     "B0DEMO0004": 1,
+     "B0DEMO0005": 16,
+     "B0DEMO0006": 13,
+     "B0DEMO0007": 12,
+     "B0DEMO0008": 18
+    },
+    "suggestedBid": {
+     "max": 88,
+     "min": 48,
+     "median": 70
+    }
+   },
+   {
+    "keyword": "demo keyword 037",
+    "searchVolume": 182,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 4,
+     "B0DEMO0002": 2,
+     "B0DEMO0003": 1,
+     "B0DEMO0004": 5,
+     "B0DEMO0005": 12,
+     "B0DEMO0006": 8,
+     "B0DEMO0007": 3,
+     "B0DEMO0008": 13
+    },
+    "suggestedBid": {
+     "max": 55,
+     "min": 32,
+     "median": 48
+    }
+   },
+   {
+    "keyword": "demo keyword 038",
+    "searchVolume": 182,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 6,
+     "B0DEMO0002": 1,
+     "B0DEMO0003": 2,
+     "B0DEMO0004": 7,
+     "B0DEMO0005": 23,
+     "B0DEMO0006": 9,
+     "B0DEMO0007": 18,
+     "B0DEMO0008": 15
+    },
+    "suggestedBid": {
+     "max": 56,
+     "min": 34,
+     "median": 47
+    }
+   },
+   {
+    "keyword": "demo keyword 039",
+    "searchVolume": 182,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 14,
+     "B0DEMO0002": 8,
+     "B0DEMO0003": 2,
+     "B0DEMO0004": 15,
+     "B0DEMO0005": 24,
+     "B0DEMO0006": 7,
+     "B0DEMO0007": 25,
+     "B0DEMO0008": 29
+    },
+    "suggestedBid": {
+     "max": 74,
+     "min": 51,
+     "median": 59
+    }
+   },
+   {
+    "keyword": "demo keyword 040",
+    "searchVolume": 182,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 13,
+     "B0DEMO0002": 10,
+     "B0DEMO0003": 1,
+     "B0DEMO0004": 19,
+     "B0DEMO0005": 21,
+     "B0DEMO0006": 2,
+     "B0DEMO0007": 35,
+     "B0DEMO0008": 34
+    },
+    "suggestedBid": {
+     "max": 89,
+     "min": 57,
+     "median": 71
+    }
+   },
+   {
+    "keyword": "demo keyword 041",
+    "searchVolume": 182,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 13,
+     "B0DEMO0002": 5,
+     "B0DEMO0003": 6,
+     "B0DEMO0004": 11,
+     "B0DEMO0005": 29,
+     "B0DEMO0006": 18,
+     "B0DEMO0007": 23,
+     "B0DEMO0008": 31
+    },
+    "suggestedBid": {
+     "max": 124,
+     "min": 74,
+     "median": 99
+    }
+   },
+   {
+    "keyword": "demo keyword 042",
+    "searchVolume": 182,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 3,
+     "B0DEMO0002": 1,
+     "B0DEMO0003": 2,
+     "B0DEMO0004": 4,
+     "B0DEMO0005": 15,
+     "B0DEMO0006": 11,
+     "B0DEMO0007": 7,
+     "B0DEMO0008": 19
+    },
+    "suggestedBid": {
+     "max": 89,
+     "min": 42,
+     "median": 71
+    }
+   },
+   {
+    "keyword": "demo keyword 043",
+    "searchVolume": 182,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 17,
+     "B0DEMO0002": 10,
+     "B0DEMO0003": 16,
+     "B0DEMO0004": 26,
+     "B0DEMO0005": 42,
+     "B0DEMO0006": 24,
+     "B0DEMO0007": 25,
+     "B0DEMO0008": 43
+    },
+    "suggestedBid": {
+     "max": 45,
+     "min": 27,
+     "median": 36
+    }
+   },
+   {
+    "keyword": "demo keyword 044",
+    "searchVolume": 182,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 12,
+     "B0DEMO0002": 4,
+     "B0DEMO0003": 5,
+     "B0DEMO0004": 14,
+     "B0DEMO0005": 24,
+     "B0DEMO0006": 7,
+     "B0DEMO0007": 17,
+     "B0DEMO0008": 21
+    },
+    "suggestedBid": {
+     "max": 148,
+     "min": 89,
+     "median": 118
+    }
+   },
+   {
+    "keyword": "demo keyword 045",
+    "searchVolume": 182,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 7,
+     "B0DEMO0002": 4,
+     "B0DEMO0003": 2,
+     "B0DEMO0004": 11,
+     "B0DEMO0005": 26,
+     "B0DEMO0006": 6,
+     "B0DEMO0007": 20,
+     "B0DEMO0008": 29
+    },
+    "suggestedBid": {
+     "max": 81,
+     "min": 49,
+     "median": 65
+    }
+   },
+   {
+    "keyword": "demo keyword 046",
+    "searchVolume": 182,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 4,
+     "B0DEMO0002": 1,
+     "B0DEMO0003": 3,
+     "B0DEMO0004": 2,
+     "B0DEMO0005": 12,
+     "B0DEMO0006": 13,
+     "B0DEMO0007": 7,
+     "B0DEMO0008": 22
+    },
+    "suggestedBid": {
+     "max": 63,
+     "min": 33,
+     "median": 50
+    }
+   },
+   {
+    "keyword": "demo keyword 047",
+    "searchVolume": 182,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 7,
+     "B0DEMO0002": 6,
+     "B0DEMO0003": 8,
+     "B0DEMO0004": 10,
+     "B0DEMO0005": 26,
+     "B0DEMO0006": 16,
+     "B0DEMO0007": 20,
+     "B0DEMO0008": 29
+    },
+    "suggestedBid": {
+     "max": 50,
+     "min": 30,
+     "median": 40
+    }
+   },
+   {
+    "keyword": "demo keyword 048",
+    "searchVolume": 182,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 4,
+     "B0DEMO0002": 1,
+     "B0DEMO0003": 2,
+     "B0DEMO0004": 3,
+     "B0DEMO0005": 16,
+     "B0DEMO0006": 14,
+     "B0DEMO0007": 6,
+     "B0DEMO0008": 7
+    },
+    "suggestedBid": {
+     "max": 66,
+     "min": 34,
+     "median": 53
+    }
+   },
+   {
+    "keyword": "demo keyword 049",
+    "searchVolume": 182,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 16,
+     "B0DEMO0002": 6,
+     "B0DEMO0003": 4,
+     "B0DEMO0004": 23,
+     "B0DEMO0005": 14,
+     "B0DEMO0006": 2,
+     "B0DEMO0007": 34,
+     "B0DEMO0008": 36
+    },
+    "suggestedBid": {
+     "max": 113,
+     "min": 63,
+     "median": 90
+    }
+   },
+   {
+    "keyword": "demo keyword 050",
+    "searchVolume": 182,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 8,
+     "B0DEMO0002": 1,
+     "B0DEMO0003": 3,
+     "B0DEMO0004": 7,
+     "B0DEMO0005": 9,
+     "B0DEMO0006": 10,
+     "B0DEMO0007": 18,
+     "B0DEMO0008": 22
+    },
+    "suggestedBid": {
+     "max": 69,
+     "min": 41,
+     "median": 55
+    }
+   },
+   {
+    "keyword": "demo keyword 051",
+    "searchVolume": 182,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 4,
+     "B0DEMO0002": 1,
+     "B0DEMO0003": 2,
+     "B0DEMO0004": 3,
+     "B0DEMO0005": 12,
+     "B0DEMO0006": 13,
+     "B0DEMO0007": 16,
+     "B0DEMO0008": 20
+    },
+    "suggestedBid": {
+     "max": 146,
+     "min": 88,
+     "median": 117
+    }
+   },
+   {
+    "keyword": "demo keyword 052",
+    "searchVolume": 182,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 4,
+     "B0DEMO0002": 1,
+     "B0DEMO0003": 3,
+     "B0DEMO0004": 2,
+     "B0DEMO0005": 10,
+     "B0DEMO0006": 8,
+     "B0DEMO0007": 14,
+     "B0DEMO0008": 15
+    },
+    "suggestedBid": {
+     "max": 165,
+     "min": 99,
+     "median": 132
+    }
+   },
+   {
+    "keyword": "demo keyword 053",
+    "searchVolume": 182,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 3,
+     "B0DEMO0002": 1,
+     "B0DEMO0003": 2,
+     "B0DEMO0004": 4,
+     "B0DEMO0005": 12,
+     "B0DEMO0006": 11,
+     "B0DEMO0007": 15,
+     "B0DEMO0008": 21
+    },
+    "suggestedBid": {
+     "max": 264,
+     "min": 135,
+     "median": 180
+    }
+   },
+   {
+    "keyword": "demo keyword 054",
+    "searchVolume": 182,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 4,
+     "B0DEMO0002": 1,
+     "B0DEMO0003": 2,
+     "B0DEMO0004": 5,
+     "B0DEMO0005": 20,
+     "B0DEMO0006": 7,
+     "B0DEMO0007": 12,
+     "B0DEMO0008": 13
+    },
+    "suggestedBid": {
+     "max": 226,
+     "min": 136,
+     "median": 181
+    }
+   },
+   {
+    "keyword": "demo keyword 055",
+    "searchVolume": 182,
+    "relevancy": 1,
+    "asinRanks": {
+     "B0DEMO0001": 5,
+     "B0DEMO0002": 1,
+     "B0DEMO0003": 2,
+     "B0DEMO0004": 3,
+     "B0DEMO0005": 13,
+     "B0DEMO0006": 19,
+     "B0DEMO0007": 7,
+     "B0DEMO0008": 23
+    },
+    "suggestedBid": {
+     "max": 111,
+     "min": 67,
+     "median": 89
+    }
+   },
+   {
+    "keyword": "demo keyword 056",
+    "searchVolume": 3262,
+    "relevancy": 0.875,
+    "asinRanks": {
+     "B0DEMO0001": 5,
+     "B0DEMO0002": 3,
+     "B0DEMO0003": 9,
+     "B0DEMO0004": 11,
+     "B0DEMO0005": 19,
+     "B0DEMO0006": 18,
+     "B0DEMO0007": 16,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 38,
+     "min": 22,
+     "median": 30
+    }
+   },
+   {
+    "keyword": "demo keyword 057",
+    "searchVolume": 818,
+    "relevancy": 0.875,
+    "asinRanks": {
+     "B0DEMO0001": 5,
+     "B0DEMO0002": 3,
+     "B0DEMO0003": 4,
+     "B0DEMO0004": 11,
+     "B0DEMO0005": 22,
+     "B0DEMO0006": 17,
+     "B0DEMO0007": 21,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 176,
+     "min": 110,
+     "median": 146
+    }
+   },
+   {
+    "keyword": "demo keyword 058",
+    "searchVolume": 729,
+    "relevancy": 0.875,
+    "asinRanks": {
+     "B0DEMO0001": 15,
+     "B0DEMO0002": 10,
+     "B0DEMO0003": 12,
+     "B0DEMO0004": 19,
+     "B0DEMO0005": 30,
+     "B0DEMO0006": 16,
+     "B0DEMO0007": 35,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 129,
+     "min": 77,
+     "median": 103
+    }
+   },
+   {
+    "keyword": "demo keyword 059",
+    "searchVolume": 182,
+    "relevancy": 0.875,
+    "asinRanks": {
+     "B0DEMO0001": 9,
+     "B0DEMO0002": 2,
+     "B0DEMO0003": 7,
+     "B0DEMO0004": 21,
+     "B0DEMO0005": 5,
+     "B0DEMO0006": 17,
+     "B0DEMO0007": 48,
+     "B0DEMO0008": 20
+    },
+    "suggestedBid": {
+     "max": 88,
+     "min": 50,
+     "median": 59
+    }
+   },
+   {
+    "keyword": "demo keyword 060",
+    "searchVolume": 182,
+    "relevancy": 0.875,
+    "asinRanks": {
+     "B0DEMO0001": 3,
+     "B0DEMO0002": 1,
+     "B0DEMO0003": 5,
+     "B0DEMO0004": 2,
+     "B0DEMO0005": 4,
+     "B0DEMO0006": 14,
+     "B0DEMO0007": 6,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 54,
+     "min": 32,
+     "median": 43
+    }
+   },
+   {
+    "keyword": "demo keyword 061",
+    "searchVolume": 182,
+    "relevancy": 0.875,
+    "asinRanks": {
+     "B0DEMO0001": 2,
+     "B0DEMO0002": 1,
+     "B0DEMO0003": 4,
+     "B0DEMO0004": 3,
+     "B0DEMO0005": 13,
+     "B0DEMO0006": 15,
+     "B0DEMO0007": 9,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 26,
+     "min": 17,
+     "median": 21
+    }
+   },
+   {
+    "keyword": "demo keyword 062",
+    "searchVolume": 182,
+    "relevancy": 0.875,
+    "asinRanks": {
+     "B0DEMO0001": 11,
+     "B0DEMO0002": 9,
+     "B0DEMO0003": 3,
+     "B0DEMO0004": 18,
+     "B0DEMO0005": 29,
+     "B0DEMO0006": 19,
+     "B0DEMO0007": null,
+     "B0DEMO0008": 27
+    },
+    "suggestedBid": null
+   },
+   {
+    "keyword": "demo keyword 063",
+    "searchVolume": 182,
+    "relevancy": 0.875,
+    "asinRanks": {
+     "B0DEMO0001": 4,
+     "B0DEMO0002": 2,
+     "B0DEMO0003": 1,
+     "B0DEMO0004": 11,
+     "B0DEMO0005": 9,
+     "B0DEMO0006": 15,
+     "B0DEMO0007": 18,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 65,
+     "min": 39,
+     "median": 52
+    }
+   },
+   {
+    "keyword": "demo keyword 064",
+    "searchVolume": 182,
+    "relevancy": 0.875,
+    "asinRanks": {
+     "B0DEMO0001": 14,
+     "B0DEMO0002": 6,
+     "B0DEMO0003": 7,
+     "B0DEMO0004": 13,
+     "B0DEMO0005": 25,
+     "B0DEMO0006": 12,
+     "B0DEMO0007": null,
+     "B0DEMO0008": 28
+    },
+    "suggestedBid": {
+     "max": 144,
+     "min": 86,
+     "median": 115
+    }
+   },
+   {
+    "keyword": "demo keyword 065",
+    "searchVolume": 182,
+    "relevancy": 0.875,
+    "asinRanks": {
+     "B0DEMO0001": 5,
+     "B0DEMO0002": 2,
+     "B0DEMO0003": 1,
+     "B0DEMO0004": 3,
+     "B0DEMO0005": 13,
+     "B0DEMO0006": 7,
+     "B0DEMO0007": 6,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 54,
+     "min": 32,
+     "median": 43
+    }
+   },
+   {
+    "keyword": "demo keyword 066",
+    "searchVolume": 182,
+    "relevancy": 0.875,
+    "asinRanks": {
+     "B0DEMO0001": 2,
+     "B0DEMO0002": 1,
+     "B0DEMO0003": 3,
+     "B0DEMO0004": null,
+     "B0DEMO0005": 4,
+     "B0DEMO0006": 10,
+     "B0DEMO0007": 9,
+     "B0DEMO0008": 5
+    },
+    "suggestedBid": {
+     "max": 54,
+     "min": 32,
+     "median": 43
+    }
+   },
+   {
+    "keyword": "demo keyword 067",
+    "searchVolume": 182,
+    "relevancy": 0.875,
+    "asinRanks": {
+     "B0DEMO0001": 21,
+     "B0DEMO0002": 9,
+     "B0DEMO0003": 11,
+     "B0DEMO0004": 23,
+     "B0DEMO0005": 36,
+     "B0DEMO0006": 25,
+     "B0DEMO0007": 34,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 74,
+     "min": 41,
+     "median": 59
+    }
+   },
+   {
+    "keyword": "demo keyword 068",
+    "searchVolume": 182,
+    "relevancy": 0.875,
+    "asinRanks": {
+     "B0DEMO0001": 20,
+     "B0DEMO0002": 11,
+     "B0DEMO0003": 13,
+     "B0DEMO0004": 21,
+     "B0DEMO0005": 39,
+     "B0DEMO0006": 26,
+     "B0DEMO0007": null,
+     "B0DEMO0008": 37
+    },
+    "suggestedBid": {
+     "max": 49,
+     "min": 29,
+     "median": 39
+    }
+   },
+   {
+    "keyword": "demo keyword 069",
+    "searchVolume": 182,
+    "relevancy": 0.875,
+    "asinRanks": {
+     "B0DEMO0001": 8,
+     "B0DEMO0002": 4,
+     "B0DEMO0003": 1,
+     "B0DEMO0004": 6,
+     "B0DEMO0005": 16,
+     "B0DEMO0006": 2,
+     "B0DEMO0007": null,
+     "B0DEMO0008": 26
+    },
+    "suggestedBid": {
+     "max": 203,
+     "min": 117,
+     "median": 162
+    }
+   },
+   {
+    "keyword": "demo keyword 070",
+    "searchVolume": 182,
+    "relevancy": 0.875,
+    "asinRanks": {
+     "B0DEMO0001": 5,
+     "B0DEMO0002": 3,
+     "B0DEMO0003": 4,
+     "B0DEMO0004": 16,
+     "B0DEMO0005": 25,
+     "B0DEMO0006": 12,
+     "B0DEMO0007": 33,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 38,
+     "min": 22,
+     "median": 30
+    }
+   },
+   {
+    "keyword": "demo keyword 071",
+    "searchVolume": 182,
+    "relevancy": 0.875,
+    "asinRanks": {
+     "B0DEMO0001": 5,
+     "B0DEMO0002": 2,
+     "B0DEMO0003": 3,
+     "B0DEMO0004": 6,
+     "B0DEMO0005": 10,
+     "B0DEMO0006": 8,
+     "B0DEMO0007": null,
+     "B0DEMO0008": 4
+    },
+    "suggestedBid": null
+   },
+   {
+    "keyword": "demo keyword 072",
+    "searchVolume": 182,
+    "relevancy": 0.875,
+    "asinRanks": {
+     "B0DEMO0001": 3,
+     "B0DEMO0002": 2,
+     "B0DEMO0003": 5,
+     "B0DEMO0004": 1,
+     "B0DEMO0005": 9,
+     "B0DEMO0006": null,
+     "B0DEMO0007": 8,
+     "B0DEMO0008": 11
+    },
+    "suggestedBid": null
+   },
+   {
+    "keyword": "demo keyword 073",
+    "searchVolume": 182,
+    "relevancy": 0.875,
+    "asinRanks": {
+     "B0DEMO0001": 11,
+     "B0DEMO0002": 6,
+     "B0DEMO0003": 13,
+     "B0DEMO0004": 15,
+     "B0DEMO0005": 23,
+     "B0DEMO0006": 19,
+     "B0DEMO0007": 49,
+     "B0DEMO0008": 22
+    },
+    "suggestedBid": {
+     "max": 45,
+     "min": 19,
+     "median": 36
+    }
+   },
+   {
+    "keyword": "demo keyword 074",
+    "searchVolume": 182,
+    "relevancy": 0.875,
+    "asinRanks": {
+     "B0DEMO0001": 27,
+     "B0DEMO0002": 4,
+     "B0DEMO0003": 26,
+     "B0DEMO0004": 25,
+     "B0DEMO0005": 15,
+     "B0DEMO0006": 21,
+     "B0DEMO0007": null,
+     "B0DEMO0008": 18
+    },
+    "suggestedBid": {
+     "max": 67,
+     "min": 34,
+     "median": 48
+    }
+   },
+   {
+    "keyword": "demo keyword 075",
+    "searchVolume": 182,
+    "relevancy": 0.875,
+    "asinRanks": {
+     "B0DEMO0001": 14,
+     "B0DEMO0002": 2,
+     "B0DEMO0003": 8,
+     "B0DEMO0004": 11,
+     "B0DEMO0005": 21,
+     "B0DEMO0006": 19,
+     "B0DEMO0007": 16,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 81,
+     "min": 49,
+     "median": 65
+    }
+   },
+   {
+    "keyword": "demo keyword 076",
+    "searchVolume": 182,
+    "relevancy": 0.875,
+    "asinRanks": {
+     "B0DEMO0001": 5,
+     "B0DEMO0002": 1,
+     "B0DEMO0003": 2,
+     "B0DEMO0004": 3,
+     "B0DEMO0005": 12,
+     "B0DEMO0006": null,
+     "B0DEMO0007": 4,
+     "B0DEMO0008": 21
+    },
+    "suggestedBid": {
+     "max": 38,
+     "min": 22,
+     "median": 30
+    }
+   },
+   {
+    "keyword": "demo keyword 077",
+    "searchVolume": 2275,
+    "relevancy": 0.75,
+    "asinRanks": {
+     "B0DEMO0001": 5,
+     "B0DEMO0002": 3,
+     "B0DEMO0003": 4,
+     "B0DEMO0004": 11,
+     "B0DEMO0005": null,
+     "B0DEMO0006": 16,
+     "B0DEMO0007": 8,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 49,
+     "min": 29,
+     "median": 39
+    }
+   },
+   {
+    "keyword": "demo keyword 078",
+    "searchVolume": 1799,
+    "relevancy": 0.75,
+    "asinRanks": {
+     "B0DEMO0001": 2,
+     "B0DEMO0002": 1,
+     "B0DEMO0003": 3,
+     "B0DEMO0004": 4,
+     "B0DEMO0005": null,
+     "B0DEMO0006": 23,
+     "B0DEMO0007": 5,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 20,
+     "min": 17,
+     "median": 19
+    }
+   },
+   {
+    "keyword": "demo keyword 079",
+    "searchVolume": 1581,
+    "relevancy": 0.75,
+    "asinRanks": {
+     "B0DEMO0001": 7,
+     "B0DEMO0002": 2,
+     "B0DEMO0003": 3,
+     "B0DEMO0004": 11,
+     "B0DEMO0005": 38,
+     "B0DEMO0006": 53,
+     "B0DEMO0007": 14,
+     "B0DEMO0008": 62
+    },
+    "suggestedBid": {
+     "max": 43,
+     "min": 26,
+     "median": 34
+    }
+   },
+   {
+    "keyword": "demo keyword 080",
+    "searchVolume": 1522,
+    "relevancy": 0.75,
+    "asinRanks": {
+     "B0DEMO0001": 5,
+     "B0DEMO0002": 2,
+     "B0DEMO0003": 9,
+     "B0DEMO0004": 10,
+     "B0DEMO0005": 18,
+     "B0DEMO0006": null,
+     "B0DEMO0007": null,
+     "B0DEMO0008": 14
+    },
+    "suggestedBid": {
+     "max": 96,
+     "min": 55,
+     "median": 68
+    }
+   },
+   {
+    "keyword": "demo keyword 081",
+    "searchVolume": 1486,
+    "relevancy": 0.75,
+    "asinRanks": {
+     "B0DEMO0001": 34,
+     "B0DEMO0002": 23,
+     "B0DEMO0003": 30,
+     "B0DEMO0004": null,
+     "B0DEMO0005": 37,
+     "B0DEMO0006": 41,
+     "B0DEMO0007": null,
+     "B0DEMO0008": 32
+    },
+    "suggestedBid": {
+     "max": 56,
+     "min": 34,
+     "median": 45
+    }
+   },
+   {
+    "keyword": "demo keyword 082",
+    "searchVolume": 1167,
+    "relevancy": 0.75,
+    "asinRanks": {
+     "B0DEMO0001": 28,
+     "B0DEMO0002": 20,
+     "B0DEMO0003": 26,
+     "B0DEMO0004": null,
+     "B0DEMO0005": 38,
+     "B0DEMO0006": 40,
+     "B0DEMO0007": null,
+     "B0DEMO0008": 36
+    },
+    "suggestedBid": {
+     "max": 60,
+     "min": 36,
+     "median": 48
+    }
+   },
+   {
+    "keyword": "demo keyword 083",
+    "searchVolume": 667,
+    "relevancy": 0.75,
+    "asinRanks": {
+     "B0DEMO0001": 30,
+     "B0DEMO0002": 25,
+     "B0DEMO0003": 31,
+     "B0DEMO0004": null,
+     "B0DEMO0005": 32,
+     "B0DEMO0006": 27,
+     "B0DEMO0007": 69,
+     "B0DEMO0008": 28
+    },
+    "suggestedBid": {
+     "max": 34,
+     "min": 20,
+     "median": 27
+    }
+   },
+   {
+    "keyword": "demo keyword 084",
+    "searchVolume": 640,
+    "relevancy": 0.75,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 8,
+     "B0DEMO0003": 9,
+     "B0DEMO0004": 26,
+     "B0DEMO0005": 35,
+     "B0DEMO0006": 32,
+     "B0DEMO0007": 27,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 20,
+     "min": 17,
+     "median": 19
+    }
+   },
+   {
+    "keyword": "demo keyword 085",
+    "searchVolume": 331,
+    "relevancy": 0.75,
+    "asinRanks": {
+     "B0DEMO0001": 22,
+     "B0DEMO0002": 12,
+     "B0DEMO0003": 17,
+     "B0DEMO0004": 37,
+     "B0DEMO0005": 52,
+     "B0DEMO0006": 27,
+     "B0DEMO0007": 42,
+     "B0DEMO0008": 54
+    },
+    "suggestedBid": {
+     "max": 60,
+     "min": 36,
+     "median": 48
+    }
+   },
+   {
+    "keyword": "demo keyword 086",
+    "searchVolume": 182,
+    "relevancy": 0.75,
+    "asinRanks": {
+     "B0DEMO0001": 3,
+     "B0DEMO0002": 2,
+     "B0DEMO0003": 5,
+     "B0DEMO0004": 4,
+     "B0DEMO0005": 8,
+     "B0DEMO0006": null,
+     "B0DEMO0007": null,
+     "B0DEMO0008": 14
+    },
+    "suggestedBid": {
+     "max": 134,
+     "min": 80,
+     "median": 107
+    }
+   },
+   {
+    "keyword": "demo keyword 087",
+    "searchVolume": 182,
+    "relevancy": 0.75,
+    "asinRanks": {
+     "B0DEMO0001": 13,
+     "B0DEMO0002": 6,
+     "B0DEMO0003": 19,
+     "B0DEMO0004": null,
+     "B0DEMO0005": 15,
+     "B0DEMO0006": 11,
+     "B0DEMO0007": 4,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 53,
+     "min": 32,
+     "median": 42
+    }
+   },
+   {
+    "keyword": "demo keyword 088",
+    "searchVolume": 182,
+    "relevancy": 0.75,
+    "asinRanks": {
+     "B0DEMO0001": 23,
+     "B0DEMO0002": 6,
+     "B0DEMO0003": 12,
+     "B0DEMO0004": 20,
+     "B0DEMO0005": 38,
+     "B0DEMO0006": 24,
+     "B0DEMO0007": null,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 49,
+     "min": 29,
+     "median": 39
+    }
+   },
+   {
+    "keyword": "demo keyword 089",
+    "searchVolume": 182,
+    "relevancy": 0.75,
+    "asinRanks": {
+     "B0DEMO0001": 3,
+     "B0DEMO0002": 1,
+     "B0DEMO0003": 2,
+     "B0DEMO0004": 4,
+     "B0DEMO0005": null,
+     "B0DEMO0006": 9,
+     "B0DEMO0007": 5,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 83,
+     "min": 50,
+     "median": 66
+    }
+   },
+   {
+    "keyword": "demo keyword 090",
+    "searchVolume": 182,
+    "relevancy": 0.75,
+    "asinRanks": {
+     "B0DEMO0001": 17,
+     "B0DEMO0002": 13,
+     "B0DEMO0003": 15,
+     "B0DEMO0004": 1,
+     "B0DEMO0005": 42,
+     "B0DEMO0006": null,
+     "B0DEMO0007": 23,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 48,
+     "min": 29,
+     "median": 38
+    }
+   },
+   {
+    "keyword": "demo keyword 091",
+    "searchVolume": 182,
+    "relevancy": 0.75,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 13,
+     "B0DEMO0003": 10,
+     "B0DEMO0004": 19,
+     "B0DEMO0005": 26,
+     "B0DEMO0006": 15,
+     "B0DEMO0007": 46,
+     "B0DEMO0008": 36
+    },
+    "suggestedBid": {
+     "max": 73,
+     "min": 32,
+     "median": 58
+    }
+   },
+   {
+    "keyword": "demo keyword 092",
+    "searchVolume": 182,
+    "relevancy": 0.75,
+    "asinRanks": {
+     "B0DEMO0001": 23,
+     "B0DEMO0002": 12,
+     "B0DEMO0003": 22,
+     "B0DEMO0004": 37,
+     "B0DEMO0005": null,
+     "B0DEMO0006": 34,
+     "B0DEMO0007": 45,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 60,
+     "min": 36,
+     "median": 48
+    }
+   },
+   {
+    "keyword": "demo keyword 093",
+    "searchVolume": 182,
+    "relevancy": 0.75,
+    "asinRanks": {
+     "B0DEMO0001": 21,
+     "B0DEMO0002": 10,
+     "B0DEMO0003": 1,
+     "B0DEMO0004": null,
+     "B0DEMO0005": 32,
+     "B0DEMO0006": 8,
+     "B0DEMO0007": null,
+     "B0DEMO0008": 34
+    },
+    "suggestedBid": {
+     "max": 145,
+     "min": 87,
+     "median": 116
+    }
+   },
+   {
+    "keyword": "demo keyword 094",
+    "searchVolume": 182,
+    "relevancy": 0.75,
+    "asinRanks": {
+     "B0DEMO0001": 21,
+     "B0DEMO0002": 13,
+     "B0DEMO0003": 18,
+     "B0DEMO0004": 17,
+     "B0DEMO0005": 30,
+     "B0DEMO0006": null,
+     "B0DEMO0007": 26,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 39,
+     "min": 23,
+     "median": 31
+    }
+   },
+   {
+    "keyword": "demo keyword 095",
+    "searchVolume": 1686,
+    "relevancy": 0.625,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 17,
+     "B0DEMO0003": 38,
+     "B0DEMO0004": null,
+     "B0DEMO0005": 42,
+     "B0DEMO0006": 27,
+     "B0DEMO0007": null,
+     "B0DEMO0008": 34
+    },
+    "suggestedBid": {
+     "max": 24,
+     "min": 17,
+     "median": 19
+    }
+   },
+   {
+    "keyword": "demo keyword 096",
+    "searchVolume": 1065,
+    "relevancy": 0.625,
+    "asinRanks": {
+     "B0DEMO0001": 26,
+     "B0DEMO0002": 1,
+     "B0DEMO0003": 11,
+     "B0DEMO0004": 19,
+     "B0DEMO0005": 105,
+     "B0DEMO0006": null,
+     "B0DEMO0007": 5,
+     "B0DEMO0008": 68
+    },
+    "suggestedBid": {
+     "max": 49,
+     "min": 29,
+     "median": 39
+    }
+   },
+   {
+    "keyword": "demo keyword 097",
+    "searchVolume": 1015,
+    "relevancy": 0.625,
+    "asinRanks": {
+     "B0DEMO0001": 22,
+     "B0DEMO0002": 6,
+     "B0DEMO0003": 7,
+     "B0DEMO0004": 28,
+     "B0DEMO0005": 52,
+     "B0DEMO0006": 24,
+     "B0DEMO0007": null,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 69,
+     "min": 37,
+     "median": 55
+    }
+   },
+   {
+    "keyword": "demo keyword 098",
+    "searchVolume": 826,
+    "relevancy": 0.625,
+    "asinRanks": {
+     "B0DEMO0001": 59,
+     "B0DEMO0002": 14,
+     "B0DEMO0003": 19,
+     "B0DEMO0004": 20,
+     "B0DEMO0005": 32,
+     "B0DEMO0006": 35,
+     "B0DEMO0007": 81,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 63,
+     "min": 45,
+     "median": 50
+    }
+   },
+   {
+    "keyword": "demo keyword 099",
+    "searchVolume": 429,
+    "relevancy": 0.625,
+    "asinRanks": {
+     "B0DEMO0001": 33,
+     "B0DEMO0002": 25,
+     "B0DEMO0003": 37,
+     "B0DEMO0004": 123,
+     "B0DEMO0005": 40,
+     "B0DEMO0006": 41,
+     "B0DEMO0007": null,
+     "B0DEMO0008": 46
+    },
+    "suggestedBid": {
+     "max": 31,
+     "min": 19,
+     "median": 25
+    }
+   },
+   {
+    "keyword": "demo keyword 100",
+    "searchVolume": 420,
+    "relevancy": 0.625,
+    "asinRanks": {
+     "B0DEMO0001": 35,
+     "B0DEMO0002": 28,
+     "B0DEMO0003": 32,
+     "B0DEMO0004": null,
+     "B0DEMO0005": 31,
+     "B0DEMO0006": null,
+     "B0DEMO0007": null,
+     "B0DEMO0008": 26
+    },
+    "suggestedBid": {
+     "max": 31,
+     "min": 19,
+     "median": 25
+    }
+   },
+   {
+    "keyword": "demo keyword 101",
+    "searchVolume": 182,
+    "relevancy": 0.625,
+    "asinRanks": {
+     "B0DEMO0001": 11,
+     "B0DEMO0002": 5,
+     "B0DEMO0003": 8,
+     "B0DEMO0004": null,
+     "B0DEMO0005": 32,
+     "B0DEMO0006": null,
+     "B0DEMO0007": 14,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 144,
+     "min": 86,
+     "median": 115
+    }
+   },
+   {
+    "keyword": "demo keyword 102",
+    "searchVolume": 182,
+    "relevancy": 0.625,
+    "asinRanks": {
+     "B0DEMO0001": 32,
+     "B0DEMO0002": 21,
+     "B0DEMO0003": 29,
+     "B0DEMO0004": 35,
+     "B0DEMO0005": null,
+     "B0DEMO0006": 47,
+     "B0DEMO0007": 14,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 26,
+     "min": 17,
+     "median": 21
+    }
+   },
+   {
+    "keyword": "demo keyword 103",
+    "searchVolume": 182,
+    "relevancy": 0.625,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 6,
+     "B0DEMO0003": 2,
+     "B0DEMO0004": 4,
+     "B0DEMO0005": null,
+     "B0DEMO0006": 5,
+     "B0DEMO0007": null,
+     "B0DEMO0008": 14
+    },
+    "suggestedBid": {
+     "max": 38,
+     "min": 22,
+     "median": 30
+    }
+   },
+   {
+    "keyword": "demo keyword 104",
+    "searchVolume": 182,
+    "relevancy": 0.625,
+    "asinRanks": {
+     "B0DEMO0001": 19,
+     "B0DEMO0002": 7,
+     "B0DEMO0003": 10,
+     "B0DEMO0004": 17,
+     "B0DEMO0005": 48,
+     "B0DEMO0006": 23,
+     "B0DEMO0007": 50,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 73,
+     "min": 34,
+     "median": 58
+    }
+   },
+   {
+    "keyword": "demo keyword 105",
+    "searchVolume": 182,
+    "relevancy": 0.625,
+    "asinRanks": {
+     "B0DEMO0001": 9,
+     "B0DEMO0002": 3,
+     "B0DEMO0003": 5,
+     "B0DEMO0004": null,
+     "B0DEMO0005": 14,
+     "B0DEMO0006": 10,
+     "B0DEMO0007": null,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 48,
+     "min": 29,
+     "median": 38
+    }
+   },
+   {
+    "keyword": "demo keyword 106",
+    "searchVolume": 182,
+    "relevancy": 0.625,
+    "asinRanks": {
+     "B0DEMO0001": 24,
+     "B0DEMO0002": 15,
+     "B0DEMO0003": 17,
+     "B0DEMO0004": null,
+     "B0DEMO0005": 25,
+     "B0DEMO0006": 16,
+     "B0DEMO0007": null,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 70,
+     "min": 50,
+     "median": 56
+    }
+   },
+   {
+    "keyword": "demo keyword 107",
+    "searchVolume": 182,
+    "relevancy": 0.625,
+    "asinRanks": {
+     "B0DEMO0001": 43,
+     "B0DEMO0002": 12,
+     "B0DEMO0003": 24,
+     "B0DEMO0004": 33,
+     "B0DEMO0005": null,
+     "B0DEMO0006": null,
+     "B0DEMO0007": 18,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 40,
+     "min": 24,
+     "median": 32
+    }
+   },
+   {
+    "keyword": "demo keyword 108",
+    "searchVolume": 182,
+    "relevancy": 0.625,
+    "asinRanks": {
+     "B0DEMO0001": 18,
+     "B0DEMO0002": 3,
+     "B0DEMO0003": 15,
+     "B0DEMO0004": null,
+     "B0DEMO0005": 28,
+     "B0DEMO0006": 25,
+     "B0DEMO0007": null,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 59,
+     "min": 35,
+     "median": 47
+    }
+   },
+   {
+    "keyword": "demo keyword 109",
+    "searchVolume": 182,
+    "relevancy": 0.625,
+    "asinRanks": {
+     "B0DEMO0001": 40,
+     "B0DEMO0002": 29,
+     "B0DEMO0003": 38,
+     "B0DEMO0004": null,
+     "B0DEMO0005": 42,
+     "B0DEMO0006": null,
+     "B0DEMO0007": null,
+     "B0DEMO0008": 39
+    },
+    "suggestedBid": {
+     "max": 34,
+     "min": 22,
+     "median": 27
+    }
+   },
+   {
+    "keyword": "demo keyword 110",
+    "searchVolume": 182,
+    "relevancy": 0.625,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": null,
+     "B0DEMO0003": 2,
+     "B0DEMO0004": null,
+     "B0DEMO0005": 8,
+     "B0DEMO0006": 4,
+     "B0DEMO0007": 9,
+     "B0DEMO0008": 3
+    },
+    "suggestedBid": {
+     "max": 69,
+     "min": 41,
+     "median": 55
+    }
+   },
+   {
+    "keyword": "demo keyword 111",
+    "searchVolume": 182,
+    "relevancy": 0.625,
+    "asinRanks": {
+     "B0DEMO0001": 34,
+     "B0DEMO0002": 24,
+     "B0DEMO0003": 29,
+     "B0DEMO0004": null,
+     "B0DEMO0005": 33,
+     "B0DEMO0006": null,
+     "B0DEMO0007": null,
+     "B0DEMO0008": 28
+    },
+    "suggestedBid": {
+     "max": 59,
+     "min": 35,
+     "median": 47
+    }
+   },
+   {
+    "keyword": "demo keyword 112",
+    "searchVolume": 182,
+    "relevancy": 0.625,
+    "asinRanks": {
+     "B0DEMO0001": 34,
+     "B0DEMO0002": 23,
+     "B0DEMO0003": 28,
+     "B0DEMO0004": null,
+     "B0DEMO0005": 33,
+     "B0DEMO0006": null,
+     "B0DEMO0007": null,
+     "B0DEMO0008": 29
+    },
+    "suggestedBid": {
+     "max": 56,
+     "min": 34,
+     "median": 45
+    }
+   },
+   {
+    "keyword": "demo keyword 113",
+    "searchVolume": 182,
+    "relevancy": 0.625,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 3,
+     "B0DEMO0003": 28,
+     "B0DEMO0004": 16,
+     "B0DEMO0005": 9,
+     "B0DEMO0006": null,
+     "B0DEMO0007": 21,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 24,
+     "min": 17,
+     "median": 19
+    }
+   },
+   {
+    "keyword": "demo keyword 114",
+    "searchVolume": 2533,
+    "relevancy": 0.5,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 11,
+     "B0DEMO0003": 18,
+     "B0DEMO0004": 14,
+     "B0DEMO0005": null,
+     "B0DEMO0006": 44,
+     "B0DEMO0007": 53,
+     "B0DEMO0008": 46
+    },
+    "suggestedBid": {
+     "max": 30,
+     "min": 22,
+     "median": 25
+    }
+   },
+   {
+    "keyword": "demo keyword 115",
+    "searchVolume": 860,
+    "relevancy": 0.5,
+    "asinRanks": {
+     "B0DEMO0001": 37,
+     "B0DEMO0002": 35,
+     "B0DEMO0003": 34,
+     "B0DEMO0004": null,
+     "B0DEMO0005": 40,
+     "B0DEMO0006": null,
+     "B0DEMO0007": null,
+     "B0DEMO0008": 47
+    },
+    "suggestedBid": {
+     "max": 26,
+     "min": 17,
+     "median": 21
+    }
+   },
+   {
+    "keyword": "demo keyword 116",
+    "searchVolume": 638,
+    "relevancy": 0.5,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 32,
+     "B0DEMO0003": 40,
+     "B0DEMO0004": null,
+     "B0DEMO0005": 43,
+     "B0DEMO0006": null,
+     "B0DEMO0007": null,
+     "B0DEMO0008": 31
+    },
+    "suggestedBid": {
+     "max": 24,
+     "min": 17,
+     "median": 19
+    }
+   },
+   {
+    "keyword": "demo keyword 117",
+    "searchVolume": 487,
+    "relevancy": 0.5,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 30,
+     "B0DEMO0003": 26,
+     "B0DEMO0004": 25,
+     "B0DEMO0005": null,
+     "B0DEMO0006": 31,
+     "B0DEMO0007": null,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 20,
+     "min": 17,
+     "median": 19
+    }
+   },
+   {
+    "keyword": "demo keyword 118",
+    "searchVolume": 417,
+    "relevancy": 0.5,
+    "asinRanks": {
+     "B0DEMO0001": 36,
+     "B0DEMO0002": 29,
+     "B0DEMO0003": null,
+     "B0DEMO0004": 30,
+     "B0DEMO0005": null,
+     "B0DEMO0006": null,
+     "B0DEMO0007": 25,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 54,
+     "min": 32,
+     "median": 43
+    }
+   },
+   {
+    "keyword": "demo keyword 119",
+    "searchVolume": 398,
+    "relevancy": 0.5,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 17,
+     "B0DEMO0003": 16,
+     "B0DEMO0004": 23,
+     "B0DEMO0005": 42,
+     "B0DEMO0006": null,
+     "B0DEMO0007": null,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 29,
+     "min": 17,
+     "median": 23
+    }
+   },
+   {
+    "keyword": "demo keyword 120",
+    "searchVolume": 356,
+    "relevancy": 0.5,
+    "asinRanks": {
+     "B0DEMO0001": 23,
+     "B0DEMO0002": 9,
+     "B0DEMO0003": 10,
+     "B0DEMO0004": 32,
+     "B0DEMO0005": null,
+     "B0DEMO0006": null,
+     "B0DEMO0007": null,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 38,
+     "min": 22,
+     "median": 30
+    }
+   },
+   {
+    "keyword": "demo keyword 121",
+    "searchVolume": 182,
+    "relevancy": 0.5,
+    "asinRanks": {
+     "B0DEMO0001": 23,
+     "B0DEMO0002": 3,
+     "B0DEMO0003": 12,
+     "B0DEMO0004": 21,
+     "B0DEMO0005": null,
+     "B0DEMO0006": null,
+     "B0DEMO0007": null,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 36,
+     "min": 22,
+     "median": 29
+    }
+   },
+   {
+    "keyword": "demo keyword 122",
+    "searchVolume": 182,
+    "relevancy": 0.5,
+    "asinRanks": {
+     "B0DEMO0001": 35,
+     "B0DEMO0002": 6,
+     "B0DEMO0003": null,
+     "B0DEMO0004": 39,
+     "B0DEMO0005": null,
+     "B0DEMO0006": null,
+     "B0DEMO0007": 42,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 22,
+     "min": 17,
+     "median": 19
+    }
+   },
+   {
+    "keyword": "demo keyword 123",
+    "searchVolume": 182,
+    "relevancy": 0.5,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 29,
+     "B0DEMO0003": 38,
+     "B0DEMO0004": 30,
+     "B0DEMO0005": null,
+     "B0DEMO0006": 32,
+     "B0DEMO0007": null,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 108,
+     "min": 65,
+     "median": 86
+    }
+   },
+   {
+    "keyword": "demo keyword 124",
+    "searchVolume": 182,
+    "relevancy": 0.5,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 12,
+     "B0DEMO0003": 11,
+     "B0DEMO0004": 32,
+     "B0DEMO0005": null,
+     "B0DEMO0006": null,
+     "B0DEMO0007": 37,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": null
+   },
+   {
+    "keyword": "demo keyword 125",
+    "searchVolume": 182,
+    "relevancy": 0.5,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 8,
+     "B0DEMO0003": 6,
+     "B0DEMO0004": 20,
+     "B0DEMO0005": null,
+     "B0DEMO0006": null,
+     "B0DEMO0007": 19,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": null
+   },
+   {
+    "keyword": "demo keyword 126",
+    "searchVolume": 182,
+    "relevancy": 0.5,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 11,
+     "B0DEMO0003": 8,
+     "B0DEMO0004": 12,
+     "B0DEMO0005": null,
+     "B0DEMO0006": 20,
+     "B0DEMO0007": null,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": null
+   },
+   {
+    "keyword": "demo keyword 127",
+    "searchVolume": 182,
+    "relevancy": 0.5,
+    "asinRanks": {
+     "B0DEMO0001": 49,
+     "B0DEMO0002": 28,
+     "B0DEMO0003": 21,
+     "B0DEMO0004": 39,
+     "B0DEMO0005": 59,
+     "B0DEMO0006": 34,
+     "B0DEMO0007": 81,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 41,
+     "min": 25,
+     "median": 33
+    }
+   },
+   {
+    "keyword": "demo keyword 128",
+    "searchVolume": 182,
+    "relevancy": 0.5,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 11,
+     "B0DEMO0003": 12,
+     "B0DEMO0004": 6,
+     "B0DEMO0005": null,
+     "B0DEMO0006": null,
+     "B0DEMO0007": 30,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": null
+   },
+   {
+    "keyword": "demo keyword 129",
+    "searchVolume": 182,
+    "relevancy": 0.5,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 5,
+     "B0DEMO0003": 10,
+     "B0DEMO0004": 28,
+     "B0DEMO0005": null,
+     "B0DEMO0006": null,
+     "B0DEMO0007": 11,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 29,
+     "min": 17,
+     "median": 23
+    }
+   },
+   {
+    "keyword": "demo keyword 130",
+    "searchVolume": 182,
+    "relevancy": 0.5,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 5,
+     "B0DEMO0003": 16,
+     "B0DEMO0004": 17,
+     "B0DEMO0005": null,
+     "B0DEMO0006": null,
+     "B0DEMO0007": 3,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 20,
+     "min": 17,
+     "median": 19
+    }
+   },
+   {
+    "keyword": "demo keyword 131",
+    "searchVolume": 182,
+    "relevancy": 0.5,
+    "asinRanks": {
+     "B0DEMO0001": 41,
+     "B0DEMO0002": 36,
+     "B0DEMO0003": 40,
+     "B0DEMO0004": null,
+     "B0DEMO0005": 37,
+     "B0DEMO0006": null,
+     "B0DEMO0007": null,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 26,
+     "min": 17,
+     "median": 21
+    }
+   },
+   {
+    "keyword": "demo keyword 132",
+    "searchVolume": 182,
+    "relevancy": 0.5,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": null,
+     "B0DEMO0003": 33,
+     "B0DEMO0004": null,
+     "B0DEMO0005": 26,
+     "B0DEMO0006": 30,
+     "B0DEMO0007": null,
+     "B0DEMO0008": 32
+    },
+    "suggestedBid": {
+     "max": 60,
+     "min": 36,
+     "median": 48
+    }
+   },
+   {
+    "keyword": "demo keyword 133",
+    "searchVolume": 182,
+    "relevancy": 0.5,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 12,
+     "B0DEMO0003": 28,
+     "B0DEMO0004": 13,
+     "B0DEMO0005": null,
+     "B0DEMO0006": null,
+     "B0DEMO0007": 18,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 29,
+     "min": 17,
+     "median": 23
+    }
+   },
+   {
+    "keyword": "demo keyword 134",
+    "searchVolume": 182,
+    "relevancy": 0.5,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 10,
+     "B0DEMO0003": 5,
+     "B0DEMO0004": 25,
+     "B0DEMO0005": null,
+     "B0DEMO0006": 41,
+     "B0DEMO0007": null,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 20,
+     "min": 17,
+     "median": 19
+    }
+   },
+   {
+    "keyword": "demo keyword 135",
+    "searchVolume": 182,
+    "relevancy": 0.5,
+    "asinRanks": {
+     "B0DEMO0001": 34,
+     "B0DEMO0002": 13,
+     "B0DEMO0003": 27,
+     "B0DEMO0004": null,
+     "B0DEMO0005": null,
+     "B0DEMO0006": null,
+     "B0DEMO0007": null,
+     "B0DEMO0008": 44
+    },
+    "suggestedBid": {
+     "max": 54,
+     "min": 32,
+     "median": 43
+    }
+   },
+   {
+    "keyword": "demo keyword 136",
+    "searchVolume": 182,
+    "relevancy": 0.5,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 6,
+     "B0DEMO0003": 21,
+     "B0DEMO0004": 40,
+     "B0DEMO0005": null,
+     "B0DEMO0006": null,
+     "B0DEMO0007": 8,
+     "B0DEMO0008": 47
+    },
+    "suggestedBid": {
+     "max": 101,
+     "min": 62,
+     "median": 82
+    }
+   },
+   {
+    "keyword": "demo keyword 137",
+    "searchVolume": 182,
+    "relevancy": 0.5,
+    "asinRanks": {
+     "B0DEMO0001": 21,
+     "B0DEMO0002": 7,
+     "B0DEMO0003": null,
+     "B0DEMO0004": 26,
+     "B0DEMO0005": null,
+     "B0DEMO0006": null,
+     "B0DEMO0007": 28,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 30,
+     "min": 17,
+     "median": 26
+    }
+   },
+   {
+    "keyword": "demo keyword 138",
+    "searchVolume": 3697,
+    "relevancy": 0.375,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 3,
+     "B0DEMO0003": null,
+     "B0DEMO0004": 30,
+     "B0DEMO0005": null,
+     "B0DEMO0006": null,
+     "B0DEMO0007": 11,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 22,
+     "min": 17,
+     "median": 19
+    }
+   },
+   {
+    "keyword": "demo keyword 139",
+    "searchVolume": 2586,
+    "relevancy": 0.375,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 29,
+     "B0DEMO0003": 34,
+     "B0DEMO0004": 32,
+     "B0DEMO0005": null,
+     "B0DEMO0006": 47,
+     "B0DEMO0007": null,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 20,
+     "min": 17,
+     "median": 19
+    }
+   },
+   {
+    "keyword": "demo keyword 140",
+    "searchVolume": 2574,
+    "relevancy": 0.375,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 12,
+     "B0DEMO0003": 22,
+     "B0DEMO0004": 34,
+     "B0DEMO0005": null,
+     "B0DEMO0006": null,
+     "B0DEMO0007": 51,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 38,
+     "min": 22,
+     "median": 30
+    }
+   },
+   {
+    "keyword": "demo keyword 141",
+    "searchVolume": 2469,
+    "relevancy": 0.375,
+    "asinRanks": {
+     "B0DEMO0001": 36,
+     "B0DEMO0002": 34,
+     "B0DEMO0003": 58,
+     "B0DEMO0004": 67,
+     "B0DEMO0005": null,
+     "B0DEMO0006": null,
+     "B0DEMO0007": 16,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 24,
+     "min": 17,
+     "median": 19
+    }
+   },
+   {
+    "keyword": "demo keyword 142",
+    "searchVolume": 1647,
+    "relevancy": 0.375,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 21,
+     "B0DEMO0003": null,
+     "B0DEMO0004": 38,
+     "B0DEMO0005": 92,
+     "B0DEMO0006": 118,
+     "B0DEMO0007": 43,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 40,
+     "min": 24,
+     "median": 32
+    }
+   },
+   {
+    "keyword": "demo keyword 143",
+    "searchVolume": 1530,
+    "relevancy": 0.375,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 44,
+     "B0DEMO0003": 30,
+     "B0DEMO0004": 34,
+     "B0DEMO0005": null,
+     "B0DEMO0006": null,
+     "B0DEMO0007": null,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": null
+   },
+   {
+    "keyword": "demo keyword 144",
+    "searchVolume": 1507,
+    "relevancy": 0.375,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 13,
+     "B0DEMO0003": null,
+     "B0DEMO0004": 19,
+     "B0DEMO0005": null,
+     "B0DEMO0006": 39,
+     "B0DEMO0007": null,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 179,
+     "min": 107,
+     "median": 143
+    }
+   },
+   {
+    "keyword": "demo keyword 145",
+    "searchVolume": 1484,
+    "relevancy": 0.375,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 37,
+     "B0DEMO0003": 23,
+     "B0DEMO0004": null,
+     "B0DEMO0005": null,
+     "B0DEMO0006": null,
+     "B0DEMO0007": 26,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 59,
+     "min": 35,
+     "median": 47
+    }
+   },
+   {
+    "keyword": "demo keyword 146",
+    "searchVolume": 1032,
+    "relevancy": 0.375,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 8,
+     "B0DEMO0003": 19,
+     "B0DEMO0004": null,
+     "B0DEMO0005": null,
+     "B0DEMO0006": null,
+     "B0DEMO0007": 29,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 133,
+     "min": 80,
+     "median": 106
+    }
+   },
+   {
+    "keyword": "demo keyword 147",
+    "searchVolume": 830,
+    "relevancy": 0.375,
+    "asinRanks": {
+     "B0DEMO0001": 86,
+     "B0DEMO0002": 1,
+     "B0DEMO0003": 14,
+     "B0DEMO0004": 30,
+     "B0DEMO0005": null,
+     "B0DEMO0006": null,
+     "B0DEMO0007": 70,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 28,
+     "min": 17,
+     "median": 22
+    }
+   },
+   {
+    "keyword": "demo keyword 148",
+    "searchVolume": 694,
+    "relevancy": 0.375,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 15,
+     "B0DEMO0003": 47,
+     "B0DEMO0004": 28,
+     "B0DEMO0005": null,
+     "B0DEMO0006": 40,
+     "B0DEMO0007": null,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 20,
+     "min": 17,
+     "median": 19
+    }
+   },
+   {
+    "keyword": "demo keyword 149",
+    "searchVolume": 675,
+    "relevancy": 0.375,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 17,
+     "B0DEMO0003": 39,
+     "B0DEMO0004": null,
+     "B0DEMO0005": 86,
+     "B0DEMO0006": null,
+     "B0DEMO0007": 33,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 70,
+     "min": 35,
+     "median": 51
+    }
+   },
+   {
+    "keyword": "demo keyword 150",
+    "searchVolume": 645,
+    "relevancy": 0.375,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 8,
+     "B0DEMO0003": 20,
+     "B0DEMO0004": 34,
+     "B0DEMO0005": null,
+     "B0DEMO0006": null,
+     "B0DEMO0007": 50,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 25,
+     "min": 17,
+     "median": 20
+    }
+   },
+   {
+    "keyword": "demo keyword 151",
+    "searchVolume": 559,
+    "relevancy": 0.375,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 22,
+     "B0DEMO0003": null,
+     "B0DEMO0004": 31,
+     "B0DEMO0005": null,
+     "B0DEMO0006": null,
+     "B0DEMO0007": 11,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": null
+   },
+   {
+    "keyword": "demo keyword 152",
+    "searchVolume": 556,
+    "relevancy": 0.375,
+    "asinRanks": {
+     "B0DEMO0001": 35,
+     "B0DEMO0002": 7,
+     "B0DEMO0003": 20,
+     "B0DEMO0004": null,
+     "B0DEMO0005": 72,
+     "B0DEMO0006": null,
+     "B0DEMO0007": 85,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 28,
+     "min": 17,
+     "median": 22
+    }
+   },
+   {
+    "keyword": "demo keyword 153",
+    "searchVolume": 550,
+    "relevancy": 0.375,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 19,
+     "B0DEMO0003": null,
+     "B0DEMO0004": 45,
+     "B0DEMO0005": 30,
+     "B0DEMO0006": null,
+     "B0DEMO0007": 83,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 20,
+     "min": 17,
+     "median": 19
+    }
+   },
+   {
+    "keyword": "demo keyword 154",
+    "searchVolume": 488,
+    "relevancy": 0.375,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 26,
+     "B0DEMO0003": null,
+     "B0DEMO0004": 35,
+     "B0DEMO0005": null,
+     "B0DEMO0006": null,
+     "B0DEMO0007": 28,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 20,
+     "min": 17,
+     "median": 19
+    }
+   },
+   {
+    "keyword": "demo keyword 155",
+    "searchVolume": 455,
+    "relevancy": 0.375,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 8,
+     "B0DEMO0003": 29,
+     "B0DEMO0004": null,
+     "B0DEMO0005": null,
+     "B0DEMO0006": null,
+     "B0DEMO0007": 20,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": null
+   },
+   {
+    "keyword": "demo keyword 156",
+    "searchVolume": 435,
+    "relevancy": 0.375,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 15,
+     "B0DEMO0003": 28,
+     "B0DEMO0004": 36,
+     "B0DEMO0005": null,
+     "B0DEMO0006": null,
+     "B0DEMO0007": null,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 30,
+     "min": 18,
+     "median": 24
+    }
+   },
+   {
+    "keyword": "demo keyword 157",
+    "searchVolume": 401,
+    "relevancy": 0.375,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 13,
+     "B0DEMO0003": null,
+     "B0DEMO0004": 20,
+     "B0DEMO0005": 30,
+     "B0DEMO0006": null,
+     "B0DEMO0007": null,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 29,
+     "min": 17,
+     "median": 23
+    }
+   },
+   {
+    "keyword": "demo keyword 158",
+    "searchVolume": 182,
+    "relevancy": 0.375,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 6,
+     "B0DEMO0003": 17,
+     "B0DEMO0004": null,
+     "B0DEMO0005": 20,
+     "B0DEMO0006": null,
+     "B0DEMO0007": null,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 49,
+     "min": 32,
+     "median": 39
+    }
+   },
+   {
+    "keyword": "demo keyword 159",
+    "searchVolume": 182,
+    "relevancy": 0.375,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 15,
+     "B0DEMO0003": 38,
+     "B0DEMO0004": null,
+     "B0DEMO0005": null,
+     "B0DEMO0006": null,
+     "B0DEMO0007": null,
+     "B0DEMO0008": 28
+    },
+    "suggestedBid": {
+     "max": 56,
+     "min": 28,
+     "median": 47
+    }
+   },
+   {
+    "keyword": "demo keyword 160",
+    "searchVolume": 182,
+    "relevancy": 0.375,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 16,
+     "B0DEMO0003": 18,
+     "B0DEMO0004": 36,
+     "B0DEMO0005": null,
+     "B0DEMO0006": null,
+     "B0DEMO0007": null,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 30,
+     "min": 18,
+     "median": 24
+    }
+   },
+   {
+    "keyword": "demo keyword 161",
+    "searchVolume": 182,
+    "relevancy": 0.375,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 12,
+     "B0DEMO0003": null,
+     "B0DEMO0004": 25,
+     "B0DEMO0005": null,
+     "B0DEMO0006": null,
+     "B0DEMO0007": 27,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": null
+   },
+   {
+    "keyword": "demo keyword 162",
+    "searchVolume": 182,
+    "relevancy": 0.375,
+    "asinRanks": {
+     "B0DEMO0001": 25,
+     "B0DEMO0002": 13,
+     "B0DEMO0003": null,
+     "B0DEMO0004": null,
+     "B0DEMO0005": 44,
+     "B0DEMO0006": null,
+     "B0DEMO0007": null,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 54,
+     "min": 32,
+     "median": 43
+    }
+   },
+   {
+    "keyword": "demo keyword 163",
+    "searchVolume": 182,
+    "relevancy": 0.375,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 8,
+     "B0DEMO0003": null,
+     "B0DEMO0004": 25,
+     "B0DEMO0005": 36,
+     "B0DEMO0006": null,
+     "B0DEMO0007": null,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 108,
+     "min": 65,
+     "median": 86
+    }
+   },
+   {
+    "keyword": "demo keyword 164",
+    "searchVolume": 182,
+    "relevancy": 0.375,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 19,
+     "B0DEMO0003": null,
+     "B0DEMO0004": null,
+     "B0DEMO0005": 31,
+     "B0DEMO0006": null,
+     "B0DEMO0007": null,
+     "B0DEMO0008": 44
+    },
+    "suggestedBid": {
+     "max": 26,
+     "min": 17,
+     "median": 21
+    }
+   },
+   {
+    "keyword": "demo keyword 165",
+    "searchVolume": 182,
+    "relevancy": 0.375,
+    "asinRanks": {
+     "B0DEMO0001": 36,
+     "B0DEMO0002": 42,
+     "B0DEMO0003": null,
+     "B0DEMO0004": null,
+     "B0DEMO0005": null,
+     "B0DEMO0006": null,
+     "B0DEMO0007": 19,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 22,
+     "min": 17,
+     "median": 19
+    }
+   },
+   {
+    "keyword": "demo keyword 166",
+    "searchVolume": 182,
+    "relevancy": 0.375,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 11,
+     "B0DEMO0003": null,
+     "B0DEMO0004": 16,
+     "B0DEMO0005": null,
+     "B0DEMO0006": null,
+     "B0DEMO0007": 14,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 59,
+     "min": 35,
+     "median": 47
+    }
+   },
+   {
+    "keyword": "demo keyword 167",
+    "searchVolume": 182,
+    "relevancy": 0.375,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 17,
+     "B0DEMO0003": null,
+     "B0DEMO0004": null,
+     "B0DEMO0005": 39,
+     "B0DEMO0006": null,
+     "B0DEMO0007": 20,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 20,
+     "min": 17,
+     "median": 19
+    }
+   },
+   {
+    "keyword": "demo keyword 168",
+    "searchVolume": 182,
+    "relevancy": 0.375,
+    "asinRanks": {
+     "B0DEMO0001": 4,
+     "B0DEMO0002": 2,
+     "B0DEMO0003": 1,
+     "B0DEMO0004": null,
+     "B0DEMO0005": null,
+     "B0DEMO0006": null,
+     "B0DEMO0007": null,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 26,
+     "min": 17,
+     "median": 21
+    }
+   },
+   {
+    "keyword": "demo keyword 169",
+    "searchVolume": 182,
+    "relevancy": 0.375,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 29,
+     "B0DEMO0003": 32,
+     "B0DEMO0004": null,
+     "B0DEMO0005": 35,
+     "B0DEMO0006": null,
+     "B0DEMO0007": null,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 24,
+     "min": 17,
+     "median": 19
+    }
+   },
+   {
+    "keyword": "demo keyword 170",
+    "searchVolume": 182,
+    "relevancy": 0.375,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 6,
+     "B0DEMO0003": null,
+     "B0DEMO0004": 26,
+     "B0DEMO0005": null,
+     "B0DEMO0006": null,
+     "B0DEMO0007": 7,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 24,
+     "min": 17,
+     "median": 19
+    }
+   },
+   {
+    "keyword": "demo keyword 171",
+    "searchVolume": 182,
+    "relevancy": 0.375,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 2,
+     "B0DEMO0003": null,
+     "B0DEMO0004": 4,
+     "B0DEMO0005": 5,
+     "B0DEMO0006": null,
+     "B0DEMO0007": null,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": null
+   },
+   {
+    "keyword": "demo keyword 172",
+    "searchVolume": 182,
+    "relevancy": 0.375,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 10,
+     "B0DEMO0003": 9,
+     "B0DEMO0004": null,
+     "B0DEMO0005": null,
+     "B0DEMO0006": null,
+     "B0DEMO0007": 31,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 69,
+     "min": 41,
+     "median": 55
+    }
+   },
+   {
+    "keyword": "demo keyword 173",
+    "searchVolume": 182,
+    "relevancy": 0.375,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": null,
+     "B0DEMO0003": 17,
+     "B0DEMO0004": 32,
+     "B0DEMO0005": null,
+     "B0DEMO0006": 33,
+     "B0DEMO0007": null,
+     "B0DEMO0008": 48
+    },
+    "suggestedBid": {
+     "max": 60,
+     "min": 38,
+     "median": 48
+    }
+   },
+   {
+    "keyword": "demo keyword 174",
+    "searchVolume": 182,
+    "relevancy": 0.375,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 10,
+     "B0DEMO0003": 6,
+     "B0DEMO0004": null,
+     "B0DEMO0005": null,
+     "B0DEMO0006": null,
+     "B0DEMO0007": 8,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 30,
+     "min": 18,
+     "median": 24
+    }
+   },
+   {
+    "keyword": "demo keyword 175",
+    "searchVolume": 182,
+    "relevancy": 0.375,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 18,
+     "B0DEMO0003": 16,
+     "B0DEMO0004": 21,
+     "B0DEMO0005": null,
+     "B0DEMO0006": null,
+     "B0DEMO0007": null,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 20,
+     "min": 17,
+     "median": 19
+    }
+   },
+   {
+    "keyword": "demo keyword 176",
+    "searchVolume": 182,
+    "relevancy": 0.375,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 1,
+     "B0DEMO0003": 2,
+     "B0DEMO0004": null,
+     "B0DEMO0005": 7,
+     "B0DEMO0006": null,
+     "B0DEMO0007": null,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": null
+   },
+   {
+    "keyword": "demo keyword 177",
+    "searchVolume": 182,
+    "relevancy": 0.375,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 8,
+     "B0DEMO0003": null,
+     "B0DEMO0004": 35,
+     "B0DEMO0005": null,
+     "B0DEMO0006": null,
+     "B0DEMO0007": 15,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": null
+   },
+   {
+    "keyword": "demo keyword 178",
+    "searchVolume": 182,
+    "relevancy": 0.375,
+    "asinRanks": {
+     "B0DEMO0001": null,
+     "B0DEMO0002": 20,
+     "B0DEMO0003": null,
+     "B0DEMO0004": 40,
+     "B0DEMO0005": null,
+     "B0DEMO0006": null,
+     "B0DEMO0007": 36,
+     "B0DEMO0008": null
+    },
+    "suggestedBid": {
+     "max": 55,
+     "min": 33,
+     "median": 44
+    }
+   }
+  ],
+  "latestResearchDate": "2026-01-01T00:00:00.000Z"
+ }
+}
