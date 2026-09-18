@@ -12,6 +12,8 @@ Paste your ASIN and up to 10 competitors. ReviewIQ collects every review, image 
 ![Apify](https://img.shields.io/badge/Data-Apify-97D700)
 ![DataDive](https://img.shields.io/badge/Keywords-DataDive-2563EB)
 ![Tests](https://img.shields.io/badge/tests-54%20passing-16A34A)
+![License](https://img.shields.io/badge/license-MIT-0F172A)
+[![Built by Pro Marketer](https://img.shields.io/badge/built%20by-Pro%20Marketer-F97316)](https://promarketer.ca)
 
 <img src="docs/screenshots/overview.png" alt="ReviewIQ overview dashboard" width="100%">
 
@@ -174,8 +176,33 @@ Run the tests:
 
 ---
 
+## About Pro Marketer
+
+<a href="https://promarketer.ca"><b>Pro Marketer</b></a> is a Toronto-based ecommerce growth agency. We help Amazon, Shopify and DTC brands win with data-driven marketing: Amazon SEO & PPC, paid social, email, CRO and review intelligence like ReviewIQ.
+
+**Want us to run this analysis for your brand, or build custom tools for your team?** Get in touch:
+
+| | |
+|---|---|
+| 🌐 Website | [promarketer.ca](https://promarketer.ca) |
+| ✉️ Email | [info@promarketer.ca](mailto:info@promarketer.ca) |
+| 📸 Instagram | [@onlypromarketer](https://www.instagram.com/onlypromarketer) |
+| 📘 Facebook | [OnlyProMarketer](https://www.facebook.com/OnlyProMarketer/) |
+| ✖️ X / Twitter | [@onlypromarketer](https://twitter.com/onlypromarketer) |
+| ▶️ YouTube | [@onlypromarketer](https://www.youtube.com/@onlypromarketer) |
+| 🎵 TikTok | [@promarketer](https://www.tiktok.com/@promarketer) |
+
+⭐ If ReviewIQ helps you, star the repo and share it!
+
+---
+
+## License
+
+[MIT](LICENSE) © 2026 [Pro Marketer](https://promarketer.ca). You're free to use, modify and share it; please keep the copyright notice.
+
 <div align="center">
 
-Built by <b>Pro Marketer</b> · Not affiliated with Amazon, Apify, Anthropic or DataDive. Use responsibly and in line with each platform's terms.
+Made with ☕ in Toronto by <a href="https://promarketer.ca"><b>Pro Marketer</b></a><br>
+<sub>Not affiliated with Amazon, Apify, Anthropic or DataDive. Use responsibly and in line with each platform's terms.</sub>
 
 </div>

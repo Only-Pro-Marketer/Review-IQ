@@ -542,3 +542,6 @@ We currently run **0 advertised keywords**. B0GJTFXNRX runs 19 but captures only
 - **No manipulation red flags in our data**: 97.2% verified, 0.0% Vine, star distribution consistent with a mature Apple SKU. Competitors are similar (Gen 2 97.5% verified, UGREEN 100%, Tile 96.0%, ATUVOS 94.0%, all 0.0% Vine).
 - Two things to keep watching: (1) Gen 2 accumulated 10,756 ratings within ~8 months of its 2026-01-26 launch with 83% at 5★ while its sampled negative rate ran 38.9–43.2% in Aug–Sep 2026 — a divergence worth monitoring, though an Apple launch at BSR 3 plausibly explains it; (2) ATUVOS at 94.0% verified is the lowest in the set — the 6% unverified tail is small but non-zero.
 - **Do not respond to the pricing gap with incentivised reviews.** Our 4.7★/59,623-rating base is worth more than any short-term rank lift.
+
+---
+*Generated with [ReviewIQ](https://github.com/Only-Pro-Marketer/Review-IQ) by [Pro Marketer](https://promarketer.ca) · info@promarketer.ca*

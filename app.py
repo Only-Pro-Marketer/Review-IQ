@@ -87,6 +87,15 @@ with st.sidebar:
     html(f"<div style='font-size:.8rem'>{'🟢' if ok_a else '🔴'} Apify &nbsp; {'🟢' if ok_c else '🔴'} Claude"
          f" &nbsp; {'🟢' if ok_d else '⚪'} DataDive"
          f"<br><span style='color:#94a3b8'>Prices in {MARKETPLACES[mp]['currency']}</span></div>")
+    st.divider()
+    html("<div style='font-size:.75rem;color:#94a3b8;line-height:1.6'>Built by "
+         "<a href='https://promarketer.ca' target='_blank' style='color:#f97316;font-weight:600;text-decoration:none'>"
+         "Pro Marketer</a><br>"
+         "<a href='https://promarketer.ca' target='_blank' style='color:#cbd5e1'>Website</a> · "
+         "<a href='https://www.instagram.com/onlypromarketer' target='_blank' style='color:#cbd5e1'>Instagram</a> · "
+         "<a href='https://www.youtube.com/@onlypromarketer' target='_blank' style='color:#cbd5e1'>YouTube</a> · "
+         "<a href='https://twitter.com/onlypromarketer' target='_blank' style='color:#cbd5e1'>X</a><br>"
+         "<a href='mailto:info@promarketer.ca' style='color:#cbd5e1'>info@promarketer.ca</a></div>")
 
 prods = db.products_df(conn, mp, work) if work else db.products_df(conn, mp).iloc[0:0]
 rv = db.reviews_df(conn, mp, work) if work else db.reviews_df(conn, mp).iloc[0:0]
@@ -725,7 +734,7 @@ elif page == P_AI:
                 if a["area"] in (pick_areas or []):
                     html(ui.action_card(a))
         with t_report:
-            st.download_button("⬇️ Download report (.md)", rep.report_md,
+            st.download_button("⬇️ Download report (.md)", rep.report_md + analyst.REPORT_CREDIT,
                                file_name=f"review_report_{rep.my_asin}_{pick}.md")
             with st.container(border=True):
                 st.markdown(rep.report_md)

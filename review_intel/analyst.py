@@ -86,6 +86,9 @@ REPORT_SCHEMA = {
     "additionalProperties": False,
 }
 
+REPORT_CREDIT = ("\n\n---\n*Generated with [ReviewIQ](https://github.com/Only-Pro-Marketer/Review-IQ) by "
+                 "[Pro Marketer](https://promarketer.ca) · info@promarketer.ca*\n")
+
 TAGGER_SYSTEM = """You are an expert Amazon customer-insight analyst with high emotional intelligence.
 For each review, read what the customer actually felt and experienced, not just the star rating.
 - emotion: the dominant feeling expressed (a 5-star review can still carry anxiety or relief).
